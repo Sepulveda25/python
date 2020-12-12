@@ -1,0 +1,3 @@
+15//4=3 
+
+//: el operador devuelve el resultado de la division truncada
